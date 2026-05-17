@@ -78,9 +78,11 @@
 
 <div align="center">
 
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamselakoti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shubhamselakoti&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamselakoti&layout=compact&theme=tokyonight&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamselakoti&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Profile Views](https://komarev.com/ghpvc/?username=shubhamselakoti&color=0891b2&style=flat-square&label=Profile+Views)
 
 </div>
 
